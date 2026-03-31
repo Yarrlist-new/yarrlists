@@ -43,6 +43,3 @@ Browse or download books in digital formats.
 
 # [🔏VPN](https://yarrlists.net/list-with-best-vpn-service-2025)
 Keep your online activity private and unlock restricted content.
-
-
-<meta name="google-site-verification" content="uDKZ_yr94_KeEyFPUR_crxHQdJmnd7EiQoCdNQoTKUQ" />
